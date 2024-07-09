@@ -4,9 +4,9 @@ This repository contains the work I completed during my summer internship at You
 
 ## Contents
 
-- **IIR (Initial Internship Report)**
-- **TPR (Technical Progress Report)**
+- **IIR**
 - **Interim Report**
+- **Project Proposal Report**
 - **Final Report**
 - **Code Files:**
   - **Web Scraping:** Scripts for extracting data from various sources.
